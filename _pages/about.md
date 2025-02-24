@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Self introduction"
+title: "プロフィール"
 author_profile: true
 redirect_from:
   - /about/
@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 日本に住むエンジニアです。
-仕事ではデータ分析/機械学習/バックエンド/インフラ周りをよく触っています。
 
-[CV](https://docs.google.com/document/d/1t1A_KGdlySOdXX-r3eIscrjt-bpIfstNjw4DmHLoKXk/edit?usp=sharing)
+新卒で機械学習エンジニアとしてフィンテックSaaS企業に入社し、現在はECサイトプラットフォームを運営する企業で不正決済検知に携わっています。
+
+専門はデータ分析/機械学習/バックエンド/インフラですが、趣味でフロントエンド(React+Next.js)のサービス開発も行っています。
