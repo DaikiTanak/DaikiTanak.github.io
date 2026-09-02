@@ -1,29 +1,32 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "ポイ活"
 date:   2026-09-01 18:36:00 +0900
-categories: jekyll update
+categories: お金 ポイント
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+世の中はどんどんキャッシュレス化が進んでいる。
+キャッシュレス決済を行うと、各社がさまざまなポイントを付与してくれる。
+ここでは、リターン/手間の管理 を最大化するように著者が実践するポイ活についてまとめる。
+えられるポイントが少なかったり(分子が小さい)、維持や、認知負荷の高い(分母が大きい)ポイ活は行わない。
 
-`YEAR-MONTH-DAY-title.MARKUP`
+なお、ポイ活は非常に変化の激しい世界であるため、情報の劣化には注意。
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+## 証券会社での投信積立によるポイント
+クレカまたは銀行で投信を積み立てるとポイントをくれるサービスを各社が展開中。
 
-Jekyll also offers powerful support for code snippets:
+* 楽天証券
+  * 楽天証券では楽天カードで10万円、楽天キャッシュで5万円の積立。楽天カードでは1%(銘柄によるので高還元のものを調べる必要がある)・楽天キャッシュでは0.5%程度のポイント還元率となる。なお、楽天キャッシュへのチャージのルートを工夫することでさらに0.X%程度の上澄が可能。
+* マネックス証券
+  * dカードで10万円の積立。最近docomoとの連携を強めている
+* 三菱UFJ eスマート証券
+  * 三菱UFJカードで10万円の積立
+* PayPay証券
+  * PayPayカードで10万円の積立
+* SBI証券
+  * 三井住友NLカードで10万円の積立
+* ウェルスナビ
+  * イオンカードで10万円カード
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+## クレジットカード
+メインカードにはビューカードがおすすめ。ビューカードは著者が知る限り唯一無料でのボーナス払いに対応している。しかも支払ったあとアプリでボーナス払いに変更ができる。期限の利益を取りに行きたい人にはおすすめ
