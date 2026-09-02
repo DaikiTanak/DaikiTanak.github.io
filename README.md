@@ -1,6 +1,8 @@
+# blog
 
-ページの作成
-jekyll new blog
+## commands
+- 作成
+`jekyll new blog`
 
-実行
-bundle exec jekyll serve
+- ローカル実行
+`bundle exec jekyll serve`
