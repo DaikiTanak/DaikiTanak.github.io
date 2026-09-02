@@ -23,13 +23,26 @@ description: >- # this means to ignore newlines until "baseurl:"
   色々まとめ
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://daikitanak.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+timezone: Japan
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
-timezone: Japan
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+
+  layouts:
+    category: category
+    tag: tag
+
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
 
 
 # Exclude from processing.

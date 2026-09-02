@@ -2,7 +2,7 @@
 layout: post
 title:  "ポイ活"
 date:   2026-09-01 18:36:00 +0900
-categories: お金 ポイント
+categories: お金
 ---
 
 世の中はどんどんキャッシュレス化が進んでいる。
